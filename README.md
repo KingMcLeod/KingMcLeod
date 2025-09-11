@@ -1,21 +1,20 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+King!;Software+Engineer;Fullstack+Developer;Content+Creator;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+King!;Software+Engineer;Fullstack+Developer;Aspiring+Content+Creator;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👋 Welcome to My GitHub  
+# 👋🏽 Welcome to My GitHub  
 
 ### 💡 About Me  
 - 💻 **Software Engineer** | Fullstack & Problem Solver  
-- 📚 Graduate of **The Marcy Lab School** Software Engineering Fellowship  
 - 🚀 Passionate about **building scalable apps**, solving meaningful problems, and exploring new technologies  
 - 🎮 Outside of coding, I enjoy **reading, video games, soccer, skateboarding, and content creation**  
 
 ---
 
-### 🛠️ Tech Stack  
+### 👨🏽‍💻 Tech Stack  
 
 #### 🎨 Frontend  
 <p align="center">
@@ -46,8 +45,6 @@
 
 ---
 
----
-
 ### 🚀 Featured Projects  
 
 | Project | Description | Tech Stack | Status | Links |
@@ -57,13 +54,11 @@
 
 ---
 
-### 🎧 Recently Played on Spotify  
-<p align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/3133qbpcywdggbw527cfudb5hgpy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3133qbpcywdggbw527cfudb5hgpy&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3133qbpcywdggbw527cfudb5hgpy&count=5" alt="Spotify recently played"  />
   </a>
-</p>
-
+</div>
 
 ---
 
@@ -79,3 +74,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=120&section=footer" />
+</div>
