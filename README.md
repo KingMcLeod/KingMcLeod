@@ -10,7 +10,7 @@
 ### 💡 About Me  
 - 💻 **Software Engineer** | Fullstack & Problem Solver  
 - 🚀 Passionate about **building scalable apps**, solving meaningful problems, and exploring new technologies  
-- 🎮 Outside of coding, I enjoy **reading, video games, soccer, skateboarding, and content creation**  
+- 🎮 Outside of coding, I enjoy **reading, music, video games, soccer, skateboarding, and content creation**  
 
 ---
 
@@ -53,10 +53,12 @@
 | **[Comen Todos](https://github.com/KJIT-Corp/comen-todos)** | A full-stack app to combat food insecurity in NYC, allowing users to search/filter food banks & explore via an interactive Leaflet map. | Node.js, Express, PostgreSQL, React, Tailwind CSS, Leaflet.js | 🚧 In Progress | [Repo](https://github.com/KJIT-Corp/comen-todos) |
 
 ---
+### 🎧 My Current Soundtrack  
+*Here’s what I’ve been vibing to lately...*  
 
 <div align="center">
   <a href="https://open.spotify.com/user/3133qbpcywdggbw527cfudb5hgpy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3133qbpcywdggbw527cfudb5hgpy&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3133qbpcywdggbw527cfudb5hgpy&count=5" alt="Spotify recently played"/>
   </a>
 </div>
 
