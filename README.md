@@ -63,6 +63,16 @@
 </div>
 
 ---
+### 💻 LeetCode Stats
+> “Consistency beats intensity — one problem a day adds up.”
+> 
+📂 Check out my daily LeetCode solutions here: [kings-daily-leetcode →](https://github.com/KingMcLeod/kings-daily-leetcode)
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kurasmagnolia?theme=catppuccinMocha&font=Lato&ext=heatmap" alt="My LeetCode Stats"/>
+</div>
+
+---
 
 ### 🌐 Connect with Me  
 <p align="center">
