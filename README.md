@@ -8,10 +8,14 @@
 # 👋🏽 Welcome to My GitHub!
 
 ### 💡 About Me  
-- 💻 **Software Engineer** | Fullstack & Problem Solver  
-- 🚀 Passionate about **building scalable apps**, solving meaningful problems, and exploring new technologies  
-- 🎮 Outside of coding, I enjoy **reading, music, video games, soccer, skateboarding, and content creation**  
 
+- 💻 **Full-Stack Software Engineer** who enjoys building intuitive front-end experiences and reliable back-end systems. I work with **JavaScript, React.js, Express.js, PostgreSQL, and recently Python**, and I’m always exploring new tools and technologies to sharpen my craft.
+
+- 🛠️ I enjoy working across the stack, whether it’s designing responsive UIs, developing server-side logic, integrating APIs, or managing data with relational databases. I care about writing clean, maintainable code and creating software that feels intentional and user-centered.
+
+- 🚀 Passionate about continuous learning, problem-solving, and bringing ideas to life through thoughtful engineering. Currently building projects, improving my skills, and experimenting with new technologies.
+
+- 🎮 Outside of coding, I enjoy **skateboarding, reading, gaming, fitness**, and exploring new experiences that keep me creative and balanced!
 ---
 
 ### 👨🏽‍💻 Tech Stack  
