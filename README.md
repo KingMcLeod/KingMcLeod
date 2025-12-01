@@ -22,7 +22,7 @@
 
 #### 🎨 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,bootstrap,vite,figma" />
 </p>
 
 #### ⚙️ Backend  
