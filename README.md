@@ -61,8 +61,8 @@
 *Here’s what I’ve been vibing to lately...*  
 
 <div align="center">
-  <a href="https://open.spotify.com/user/3133qbpcywdggbw527cfudb5hgpy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3133qbpcywdggbw527cfudb5hgpy&count=5" alt="Spotify recently played"/>
+  <a href="https://open.spotify.com/user/31liisq3f5g574ixrjeso6cz7q4u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31liisq3f5g574ixrjeso6cz7q4u&count=5" alt="Spotify recently played"/>
   </a>
 </div>
 
